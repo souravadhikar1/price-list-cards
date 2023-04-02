@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Basic membership",
+    "price": 20,
+    "features": ["Cardio", "Weights"]
+  },
+  {
+    "id": 2,
+    "name": "Premium membership",
+    "price": 50,
+    "features": ["Cardio", "Weights", "Group Classes", "Personal Training"]
+  },
+  {
+    "id": 3,
+    "name": "VIP membership",
+    "price": 100,
+    "features": ["Cardio", "Weights", "Group Classes", "Personal Training", "Sauna", "Towels"]
+  }
+]
